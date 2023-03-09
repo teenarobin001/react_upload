@@ -1,0 +1,11 @@
+.border-box{  
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.border-box > div{
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin:5px;
+    
+}
